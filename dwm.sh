@@ -30,7 +30,7 @@ sudo make clean install
 cd ..
 
 # Install slstatus
-git clone "git clone https://git.suckless.org/slstatus" slstatus
+git clone "https://git.suckless.org/slstatus" slstatus
 cd /opt/slstatus
 make
 sudo make clean install
